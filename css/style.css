@@ -1,0 +1,73 @@
+body {
+    background: black;
+}
+
+.navbar {
+    background: black;
+    margin-bottom: 0;
+}
+
+.navbar-header a:hover {
+    background: olivedrab;
+}
+
+.nav li:hover {
+    background: olivedrab;
+    border-radius: 5px;
+}
+
+.nav li li {
+    background: black;
+}
+
+.breadcrumb {
+    background: black;
+    margin-top: -1px;
+    border: 1px solid white;
+}
+
+/* myCarousel css */
+
+.carousel-inner {
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.carousel-indicators li {
+    background: black;
+}
+
+.glyphicon {
+    color: black;
+}
+
+.carousel-caption {
+    color: black;
+}
+/* end of carousel css */
+
+.modal-dialog {
+    margin-top: 0;
+}
+
+.site-footer {
+    margin-bottom: 5px;
+    background: lightcoral;
+    border-radius: 5px;
+}
+
+.fa-medium {
+    font-size: 800%;
+    color: olivedrab;
+    display: flex;
+    justify-content: center;
+}
+
+.contact {
+    list-style: none;
+    text-align: center;
+}
+
+.contact a {
+    color: black;
+}
